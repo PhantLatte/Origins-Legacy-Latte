@@ -1,0 +1,16 @@
+{
+  "type": "origins:attribute",
+  "modifier": {
+    "name": "Fox scram speed bonus",
+    "attribute": "minecraft:generic.movement_speed",
+    "value": 0.2,
+    "operation": "multiply_base"
+  },
+  "name": "Scram!",
+  "description" : "Whenever your health goes below 4 hearts, you gain a small speed boost.",
+  "condition": {
+    "type": "origins:health",
+    "comparison": "<",
+    "compare_to": 8
+  }
+}
