@@ -1,0 +1,10 @@
+{"type": "origins:night_vision",
+  "strength": 1,
+  "name": "Nocturnal",
+  "description" : "You have night vision when not in water.",
+  "condition": {
+    "type": "origins:submerged_in",
+    "fluid": "minecraft:water",
+    "inverted": true
+  }
+}
