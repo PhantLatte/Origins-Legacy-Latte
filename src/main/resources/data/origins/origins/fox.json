@@ -1,0 +1,14 @@
+{
+  "powers": [
+    "origins:no_fall_damage",
+    "origins:scram",
+    "origins:nocturnal"
+  ],
+  "icon": {
+    "item": "minecraft:sweet_berries"
+  },
+  "order": 5,
+  "impact": 1,
+  "name": "fox",
+  "description": "become fox"
+}
