@@ -1,0 +1,6 @@
+{
+  "type": "apoli:modify_falling",
+  "take_fall_damage": false,
+  "name": "Acrobatics",
+  "description" : "You never take fall damage, no matter from which height you fall."
+}
